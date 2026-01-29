@@ -10,7 +10,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="image/fest-bot.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/fest-bot.jpg.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Festival</h3>
@@ -39,7 +39,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="zashitj.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="zashit.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День защитника Отечества</h3>
@@ -114,7 +114,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="Rossiya.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="rossia.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День России</h3>
