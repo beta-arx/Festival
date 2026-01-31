@@ -28,7 +28,7 @@ With purchases over $200, you receive all the gifts
       <img src="novgod.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Новый год</h3>
+      <h3 style="margin-top: 0;">Новый Год</h3>
       <p>$10</p>
     </td>
   </tr>
@@ -43,7 +43,7 @@ With purchases over $200, you receive all the gifts
       <img src="zachit.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День защитника Отечества</h3>
+      <h3 style="margin-top: 0;">День Защитника</h3>
       <p>$10</p>
     </td>
   </tr>
@@ -58,7 +58,7 @@ With purchases over $200, you receive all the gifts
       <img src="zhensk.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Женский день</h3>
+      <h3 style="margin-top: 0;">Женский День</h3>
       <p>$10</p>
     </td>
   </tr>
@@ -73,7 +73,7 @@ With purchases over $200, you receive all the gifts
       <img src="pervom.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День весны и труда</h3>
+      <h3 style="margin-top: 0;">Первомай</h3>
       <p>$10</p>
     </td>
   </tr>
@@ -103,7 +103,7 @@ With purchases over $200, you receive all the gifts
       <img src="detski.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День защиты детей</h3>
+      <h3 style="margin-top: 0;">День Детей</h3>
       <p>$10</p>
     </td>
   </tr>
@@ -133,7 +133,7 @@ With purchases over $200, you receive all the gifts
       <img src="semia.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День семьи, любви и верности</h3>
+      <h3 style="margin-top: 0;">День Семьи</h3>
       <p>$10</p>
     </td>
   </tr>
@@ -163,7 +163,7 @@ With purchases over $200, you receive all the gifts
       <img src="edinst.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">День народного единства</h3>
+      <h3 style="margin-top: 0;">День Единства</h3>
       <p>$10</p>
     </td>
   </tr>
